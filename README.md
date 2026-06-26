@@ -28,6 +28,12 @@ anyway, so I didn't really avoid dealing with type level lists).
 The silver lining is that this repository can also serve as a decently minimal
 example of how to use PHOAS, with a typechecker and an interpreter.
 
+## Read about this project
+
+- I wrote [a blog post for Tweag][https://www.tweag.io/blog/2026-06-18-sheaves-in-haskell/]
+  where I explain how I made sheaves work for this project in a more digestible
+  form than mere code.
+
 ## How to play around
 
 The executable has two subcommands:
